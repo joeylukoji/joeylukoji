@@ -25,6 +25,20 @@ I design and build intelligent systems end to end, from research prototypes in c
 
 ---
 
+## 🏢 Professional work: Université Protestante de Lubumbashi (UPL)
+
+Production software built for a university, used by its faculties, staff and students.
+
+| Project | Description | Stack |
+|---|---|---|
+| [**UPL website & UPL Média**](https://github.com/joeylukoji/website) | Official university website plus **UPL Média**, the CMS where university teams publish events, publications, projects, the academic calendar and page content in French, English and Korean. Role-based permissions: each faculty account manages only its own faculty. | Laravel 13 · PHP 8.4 · MySQL · Redis · Nginx · Docker · Tailwind |
+| [**UPL community platform**](https://github.com/joeylukoji/upl_community_backend) | Backend for the university community: chat, knowledge sharing and information feeds. | Python |
+| [**UPL university site**](https://github.com/joeylukoji/upl-universit--site) · [live demo](https://upl-universit-site.vercel.app) | Earlier version of the university's public website. | HTML · CSS · JavaScript · Docker |
+
+> 🔒 These repositories are private because they belong to the institution. Code walkthroughs are available on request.
+
+---
+
 ## 🔬 Research projects (public)
 
 | Project | Description |
@@ -67,7 +81,6 @@ Most of my professional work lives in private repositories. Here is an overview.
 - **Mobile marketplace:** multi-vendor marketplace with FastAPI, Expo mobile app, web store and admin dashboard
 - **Edu Pilot:** education and school-management platform for the DRC (for Panlyack)
 - **Panlyack ERP & website:** enterprise resource planning and corporate site
-- **UPL community platform:** university community, chat and knowledge sharing
 - **NFC platform:** digital NFC business cards for fast, reliable contact sharing
 - **E-commerce:** several online stores (Tinda Market, GM Store, Basyk Shop, sports nutrition hub)
 - **Booking platform:** apartment rental and reservation app
@@ -76,7 +89,7 @@ Most of my professional work lives in private repositories. Here is an overview.
 - **Mail automation:** Outlook email automation
 
 ### Client websites (private)
-University websites, company sites, and portfolio/landing pages built for independent clients and organisations.
+Company sites and portfolio/landing pages built for independent clients and organisations.
 
 ---
 
