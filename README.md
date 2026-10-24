@@ -65,6 +65,13 @@ Production software built for a university, used by its faculties, staff and stu
 
 ---
 
+## 🏅 Dev.to badges
+
+[![DEV.to Hacktoberfest 2026 completion badge](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F506%2Fhf26-badge-completion.png)](https://dev.to/)
+[![DEV.to writing streak badge](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png)](https://dev.to/)
+
+---
+
 ## 🔒 Private work
 
 Most of my professional work lives in private repositories. Here is an overview.
