@@ -1,70 +1,145 @@
-# Hi, I'm Joy 👋
+<h1 align="center"><strong>Joy Lukoji</strong></h1>
 
-**Independent AI Researcher · AI & Software Engineering · Intelligent Systems & Digital Solutions · Full-Stack Developer**
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?fm=jpg&amp;w=1600&amp;h=420&amp;fit=crop&amp;q=85" alt="Panoramic green mountain forest in soft morning light" width="100%" />
+</p>
 
-I design and build intelligent systems end to end, from research prototypes in computer vision and generative design to production web and mobile platforms for businesses. I care about software that is correct, measurable and useful in the real world, with a focus on Africa and the DRC.
+<p align="center">
+  <strong>AI Researcher | Software Engineer | Full-Stack Developer</strong><br />
+  I build intelligent systems and useful software, from AI research prototypes to production web and mobile platforms.<br />
+  Focused on reliable engineering and practical impact in Africa and the DRC.
+</p>
 
-🌐 Portfolio: [joyportfolio-six.vercel.app](https://joyportfolio-six.vercel.app/)
+<p align="center">
+  <a href="https://joyportfolio-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-1F6F5C?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://github.com/joeylukoji"><img src="https://img.shields.io/badge/GITHUB-PROFILE-263238?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" /></a>
+</p>
 
----
-
-## ⭐ Featured projects
-
-| Project | What it does |
-|---|---|
-| [**archlux**](https://github.com/joeylukoji/archlux) | Repairs AI-generated floor plans into geometrically valid designs while preserving daylight. |
-| [**A-AI**](https://github.com/joeylukoji/A-AI) | Turns a natural-language brief into an editable 2D floor plan and Blender 3D model. |
-| [**CanopyOS**](https://github.com/joeylukoji/CanopyOS) | Uses image segmentation to ground greening recommendations in a real place. |
-| [**PanlyackErp**](https://github.com/joeylukoji/PanlyackErp) | Processes a reviewed invoice into inventory, journal and cash operations in one PostgreSQL transaction. |
-
-## 🛠️ Tech stack
-
-**Languages:** Python · TypeScript · JavaScript · Go · PHP · HTML/CSS  
-**Backend:** FastAPI · Django · Flask · Go (Chi) · PostgreSQL · SQLite · SQLAlchemy  
-**Frontend & mobile:** React · Vite · React Native / Expo · HTMX · Tailwind  
-**AI / ML:** PyTorch · Transformers · SegFormer · Qwen · MCP · Blender (3D generation)  
-**DevOps:** Docker · Nginx · GitHub Actions · Vercel
+<p align="center">
+  <a href="#about-me">About</a> · <a href="#featured-projects">Featured projects</a> · <a href="#stack-and-skills">Skills</a> · <a href="#professional-work">Professional work</a> · <a href="#contact">Contact</a>
+</p>
 
 ---
 
-## 🏢 Professional work: Université Protestante de Lubumbashi (UPL)
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%231F6F5C" width="18" height="18" alt="" /> About me
 
-Production software built for a university, used by its faculties, staff and students.
+Independent AI researcher and full-stack developer. I work across computer vision, generative design, intelligent systems, APIs, and web and mobile products. I care about software that is correct, measurable, and useful in the real world.
+
+## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%231F6F5C" width="18" height="18" alt="" /> Stack & skills
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Languages & backend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI & data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+        <img src="https://img.shields.io/badge/SegFormer-6A5ACD?style=flat-square" alt="SegFormer" />
+        <img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square" alt="Qwen" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Frontend & mobile</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square" alt="HTMX" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tools & infrastructure</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/MCP-5B5BD6?style=flat-square" alt="Model Context Protocol" />
+        <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://api.iconify.design/lucide/layers-3.svg?color=%231F6F5C" width="18" height="18" alt="" /> Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/joeylukoji/archlux">archlux</a></h3>
+      <p><sub>AI · Computational design</sub></p>
+      <p>Repairs AI-generated floor plans into geometrically valid designs while preserving daylight.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/joeylukoji/A-AI">A-AI</a></h3>
+      <p><sub>Generative design · 3D</sub></p>
+      <p>Turns a natural-language brief into an editable 2D floor plan and a Blender 3D model.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/joeylukoji/CanopyOS">CanopyOS</a></h3>
+      <p><sub>Computer vision · Climate</sub></p>
+      <p>Uses image segmentation to ground greening recommendations in a real place.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/joeylukoji/PanlyackErp">PanlyackErp</a></h3>
+      <p><sub>ERP · PostgreSQL</sub></p>
+      <p>Turns a reviewed invoice into inventory, journal, and cash operations in one PostgreSQL transaction.</p>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://api.iconify.design/lucide/building-2.svg?color=%231F6F5C" width="18" height="18" alt="" /> Professional work
+
+### Université Protestante de Lubumbashi (UPL)
+
+Production software used by university faculties, staff, and students.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**UPL website & UPL Média**](https://github.com/joeylukoji/website) | Official university website plus **UPL Média**, the CMS where university teams publish events, publications, projects, the academic calendar and page content in French, English and Korean. Role-based permissions: each faculty account manages only its own faculty. | Laravel 13 · PHP 8.4 · MySQL · Redis · Nginx · Docker · Tailwind |
-| [**UPL community platform**](https://github.com/joeylukoji/upl_community_backend) | Backend for the university community: chat, knowledge sharing and information feeds. | Python |
-| [**UPL university site**](https://github.com/joeylukoji/upl-universit--site) · [live demo](https://upl-universit-site.vercel.app) | Earlier version of the university's public website. | HTML · CSS · JavaScript · Docker |
+| [UPL website & UPL Média](https://github.com/joeylukoji/website) | University website and multilingual CMS for events, publications, projects, calendars, and faculty-managed content. | Laravel · PHP · MySQL · Redis |
+| [UPL community platform](https://github.com/joeylukoji/upl_community_backend) | Backend for community chat, knowledge sharing, and information feeds. | Python |
+| [UPL university site](https://github.com/joeylukoji/upl-universit--site) · [live demo](https://upl-universit-site.vercel.app) | Earlier version of the public university site. | HTML · CSS · JavaScript |
 
-> 🔒 These repositories are private because they belong to the institution. Code walkthroughs are available on request.
+> These repositories are private because they belong to the institution. Code walkthroughs are available on request.
 
----
-
-## 🔬 More public projects
+## <img src="https://api.iconify.design/lucide/globe-2.svg?color=%231F6F5C" width="18" height="18" alt="" /> More public work
 
 [IA-detection-post-operation](https://github.com/joeylukoji/IA-detection-post-operation) · [Qwen_mcp](https://github.com/joeylukoji/Qwen_mcp) · [Mesh_ai_project](https://github.com/joeylukoji/Mesh_ai_project) · [Ransom_war](https://github.com/joeylukoji/Ransom_war) · [Frigate-NVR-](https://github.com/joeylukoji/Frigate-NVR-) · [hexagone-connect](https://github.com/joeylukoji/hexagone-connect)
 
-## 📚 Learning & documentation (public)
+## <img src="https://api.iconify.design/lucide/award.svg?color=%231F6F5C" width="18" height="18" alt="" /> DEV.to badges
 
-[doc-django](https://github.com/joeylukoji/doc-django) · [documentation_flask-](https://github.com/joeylukoji/documentation_flask-) · [joy_portfolio](https://github.com/joeylukoji/joy_portfolio) · [Joy-page](https://github.com/joeylukoji/Joy-page)
+<p>
+  <a href="https://dev.to/"><img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F506%2Fhf26-badge-completion.png" alt="DEV.to Hacktoberfest 2026 completion badge" /></a>
+  <a href="https://dev.to/"><img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png" alt="DEV.to writing streak badge" /></a>
+</p>
 
----
+## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%231F6F5C" width="18" height="18" alt="" /> Other private work
 
-## 🏅 Dev.to badges
-
-[![DEV.to Hacktoberfest 2026 completion badge](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F506%2Fhf26-badge-completion.png)](https://dev.to/)
-[![DEV.to writing streak badge](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F280%2FWriting_Streak_Badges-05.png)](https://dev.to/)
-
----
-
-## 🔒 Private work
-
-Professional and client work includes AI for video analysis and healthcare, VR surgical training, AI accounting, and security-testing tools. I also build marketplaces, education and ERP platforms, e-commerce, booking and visa services, NFC business cards, and client websites. Some projects are available to discuss on request.
+AI for video analysis and healthcare, VR surgical training, AI accounting, security-testing tools, marketplaces, education and ERP platforms, e-commerce, booking and visa services, NFC business cards, and client websites. Some projects are available to discuss on request.
 
 ---
 
-## 📫 Contact
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%231F6F5C" width="18" height="18" alt="" /> Contact
 
-Open to research collaborations, freelance missions and AI/software consulting.  
-👉 [Portfolio](https://joyportfolio-six.vercel.app/) · [GitHub](https://github.com/joeylukoji)
+<p align="center">
+  Open to research collaborations, freelance work, and AI/software consulting.<br /><br />
+  <a href="https://joyportfolio-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1F6F5C?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/joeylukoji"><img src="https://img.shields.io/badge/GITHUB-263238?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
