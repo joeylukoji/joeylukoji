@@ -1,13 +1,7 @@
 <h1 align="center"><strong>Joy Lukoji</strong></h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?fm=jpg&amp;w=1600&amp;h=420&amp;fit=crop&amp;q=85" alt="Panoramic green mountain forest in soft morning light" width="100%" />
-</p>
-
-<p align="center">
-  <strong>AI Researcher | Software Engineer | Full-Stack Developer</strong><br />
-  I build intelligent systems and useful software, from AI research prototypes to production web and mobile platforms.<br />
-  Focused on reliable engineering and practical impact in Africa and the DRC.
+  <img src="profile-banner.svg" alt="AI and Software Engineering banner for Joy Lukoji" width="100%" />
 </p>
 
 <p align="center">
