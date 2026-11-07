@@ -101,10 +101,11 @@ Independent AI researcher and full-stack developer. I work across computer visio
 
 ## <img src="https://api.iconify.design/lucide/trophy.svg?color=%231F6F5C" width="18" height="18" alt="" /> Awards
 
-**Best Open-Source AI Project** — awarded for **Fast_automatisation** at Hacktoberfest Hack Day Lubumbashi, organized by DevCom_UPL on October 31, 2026.
+**Best Open-Source AI Project** and **Best Use of Gemma 4** — both awarded for **Fast_automatisation** at Hacktoberfest Hack Day Lubumbashi, organized by DevCom_UPL on October 31, 2026.
 
 <p align="center">
   <a href="https://github.com/joeylukoji/joy_portfolio/blob/main/assets/img/hacktoberfest-2026-award.png"><img src="https://raw.githubusercontent.com/joeylukoji/joy_portfolio/main/assets/img/hacktoberfest-2026-award.png" alt="Hacktoberfest 2026 certificate: Joy Mbiya, Best Open-Source AI Project for Fast_automatisation" width="560" /></a>
+  <a href="https://github.com/joeylukoji/joy_portfolio/blob/main/assets/img/hacktoberfest-2026-gemma4-award.png"><img src="https://raw.githubusercontent.com/joeylukoji/joy_portfolio/main/assets/img/hacktoberfest-2026-gemma4-award.png" alt="Hacktoberfest 2026 certificate: Joy Mbiya, Best Use of Gemma 4 for Fast_automatisation" width="560" /></a>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/building-2.svg?color=%231F6F5C" width="18" height="18" alt="" /> Professional work
