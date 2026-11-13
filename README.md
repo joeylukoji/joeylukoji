@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> · <a href="#featured-projects">Featured projects</a> · <a href="#awards">Awards</a> · <a href="#stack-and-skills">Skills</a> · <a href="#professional-work">Professional work</a> · <a href="#contact">Contact</a>
+  <a href="#about-me">About</a> · <a href="#research-and-preprints">Research</a> · <a href="#featured-projects">Featured projects</a> · <a href="#awards">Awards</a> · <a href="#stack-and-skills">Skills</a> · <a href="#professional-work">Professional work</a> · <a href="#contact">Contact</a>
 </p>
 
 ---
@@ -69,6 +69,18 @@ Independent AI researcher and full-stack developer. I work across computer visio
     </td>
   </tr>
 </table>
+
+## <img src="https://api.iconify.design/lucide/file-text.svg?color=%231F6F5C" width="18" height="18" alt="" /> Research and preprints
+
+### Preprint reference
+
+[A General Methodology for AI-Assisted, Evidence-Based and Cryptographically Verifiable Conditional Payment Systems](https://zenodo.org/records/24162170)
+
+A preprint on conditional payment systems, signed evidence, and cryptographically verifiable outcomes.
+
+<p>
+  <a href="https://zenodo.org/records/24162170"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.24162170.svg" alt="DOI: 10.5281/zenodo.24162170" /></a>
+</p>
 
 ## <img src="https://api.iconify.design/lucide/layers-3.svg?color=%231F6F5C" width="18" height="18" alt="" /> Featured projects
 
